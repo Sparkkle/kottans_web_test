@@ -1,0 +1,1 @@
+Screenshots for Kottans Web development course task_1
